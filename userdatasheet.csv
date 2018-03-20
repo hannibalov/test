@@ -1,0 +1,37 @@
+airline,route,pax-id,bundle-id,experience-name,time,headset-id,day,month,year,category
+Iberia,Madrid-Moscow,0,35114dff29831d96e8b9ba82b6c797da,08,04,2018,Unknown
+Iberia,Madrid-Moscow,1,6b54c62fe786e24e79c56c4a088edfa7,23,05,2018,Unknown
+Iberia,Madrid-Moscow,1,com.InflightVR.3DMoviePlayer, ,192360.0,6b54c62fe786e24e79c56c4a088edfa7,23,05,2018,Unknown
+Iberia,Madrid-Moscow,1,com.fiveminlab.toyclash.ifvr, ,103073.0,6b54c62fe786e24e79c56c4a088edfa7,23,05,2018,Games
+Iberia,Madrid-Moscow,1,com.InflightVR.360Player, ,127665.0,6b54c62fe786e24e79c56c4a088edfa7,23,05,2018,Unknown
+Iberia,Madrid-Moscow,2,886586bd297a1bc9987ff75f453b2260,27,04,2018,Unknown
+Iberia,Madrid-Moscow,2,com.InflightVR.NewsRoom, ,105396.0,886586bd297a1bc9987ff75f453b2260,27,04,2018,Info
+Iberia,Madrid-Moscow,2,com.InflightVR.3DMoviePlayer, ,163513.0,886586bd297a1bc9987ff75f453b2260,27,04,2018,Unknown
+Iberia,Madrid-Tel Aviv,0,886586bd297a1bc9987ff75f453b2260,19,04,2018,Unknown
+Iberia,Madrid-Tel Aviv,0,com.InflightVR.360Player, ,166978.0,886586bd297a1bc9987ff75f453b2260,19,04,2018,Unknown
+Iberia,Madrid-Tel Aviv,0,com.InflightVR.FlightInfo, ,39353.0,886586bd297a1bc9987ff75f453b2260,19,04,2018,Info
+Iberia,Madrid-Tel Aviv,0,com.fiveminlab.toyclash.ifvr, ,159209.0,886586bd297a1bc9987ff75f453b2260,19,04,2018,Games
+Small Planet Aero,Amsterdam-Lanzarote,0,a9319e344c7211ad3b22ff4de020b5cc,05,05,2018,Unknown
+Small Planet Aero,Amsterdam-Lanzarote,0,com.InflightVR.360Player, ,161289.0,a9319e344c7211ad3b22ff4de020b5cc,05,05,2018,Unknown
+Small Planet Aero,Amsterdam-Lanzarote,0,com.InflightVR.3DMoviePlayer, ,72393.0,a9319e344c7211ad3b22ff4de020b5cc,05,05,2018,Unknown
+Small Planet Aero,Amsterdam-Lanzarote,0,nan, ,64556.0,a9319e344c7211ad3b22ff4de020b5cc,05,05,2018,Unknown
+Small Planet Aero,Amsterdam-Lanzarote,0,com.InflightVR.360Player, ,48339.0,a9319e344c7211ad3b22ff4de020b5cc,05,05,2018,Unknown
+Small Planet Aero,Amsterdam-Marsa Alam,0,f1192693169a95f8a349b9beca96b61f,17,04,2018,Unknown
+Small Planet Aero,Amsterdam-Marsa Alam,0,com.InflightVR.FlightInfo, ,67868.0,f1192693169a95f8a349b9beca96b61f,17,04,2018,Info
+Small Planet Aero,Amsterdam-Marsa Alam,0,com.InflightVR.FlightInfo, ,41951.0,f1192693169a95f8a349b9beca96b61f,17,04,2018,Info
+Small Planet Aero,Amsterdam-Marsa Alam,0,com.fiveminlab.toyclash.ifvr, ,114668.0,f1192693169a95f8a349b9beca96b61f,17,04,2018,Games
+Volotea,Valencia-Paris,0,7bcfb06f932da9f97ad7a45f22512fae,05,05,2018,Unknown
+Volotea,Valencia-Paris,0,com.InflightVR.3DMoviePlayer, ,199476.0,7bcfb06f932da9f97ad7a45f22512fae,05,05,2018,Unknown
+Volotea,Valencia-Paris,0,com.InflightVR.3DMoviePlayer, ,98122.0,7bcfb06f932da9f97ad7a45f22512fae,05,05,2018,Unknown
+Volotea,Valencia-Paris,0,com.InflightVR.3DMoviePlayer, ,70134.0,7bcfb06f932da9f97ad7a45f22512fae,05,05,2018,Unknown
+Volotea,Valencia-Paris,0,com.InflightVR.3DMoviePlayer, ,159959.0,7bcfb06f932da9f97ad7a45f22512fae,05,05,2018,Unknown
+Volotea,Valencia-Paris,0,com.InflightVR.360Player, ,47593.0,7bcfb06f932da9f97ad7a45f22512fae,05,05,2018,Unknown
+Volotea,Valencia-Paris,0,nan, ,29602.0,7bcfb06f932da9f97ad7a45f22512fae,05,05,2018,Unknown
+Volotea,Valencia-Paris,0,com.InflightVR.360Player, ,90407.0,7bcfb06f932da9f97ad7a45f22512fae,05,05,2018,Unknown
+Volotea,Valencia-Paris,1,f1192693169a95f8a349b9beca96b61f,24,05,2018,Unknown
+Volotea,Valencia-Paris,1,com.InflightVR.NewsRoom, ,190973.0,f1192693169a95f8a349b9beca96b61f,24,05,2018,Info
+Volotea,Valencia-Paris,1,com.InflightVR.FlightInfo, ,86738.0,f1192693169a95f8a349b9beca96b61f,24,05,2018,Info
+Volotea,Valencia-Paris,1,com.InflightVR.NewsRoom, ,21679.0,f1192693169a95f8a349b9beca96b61f,24,05,2018,Info
+Volotea,Valencia-Paris,1,com.InflightVR.360Player, ,61292.0,f1192693169a95f8a349b9beca96b61f,24,05,2018,Unknown
+Volotea,Valencia-Paris,1,com.InflightVR.NewsRoom, ,195748.0,f1192693169a95f8a349b9beca96b61f,24,05,2018,Info
+Volotea,Valencia-Paris,1,com.InflightVR.360Player, ,20068.0,f1192693169a95f8a349b9beca96b61f,24,05,2018,Unknown
